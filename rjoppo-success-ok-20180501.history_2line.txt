@@ -1,0 +1,223 @@
+    1  exit
+    2  ls
+    3  mkdir tt
+    4  ls
+    5  cd tt
+    6  ls
+    7  ls
+    8  sudo apt-get
+    9  help
+   10  apt install clang python python-dev fftw libzmq libzmq-dev freetype freetype-dev libpng libpng-dev pkg-config
+   11  apt install clang python python-dev
+   12  apt
+   13  list
+   14  apt search python
+   15  apt install python
+   16  ls
+   17  ls
+   18  cd ..
+   19  ls
+   20  cd ..
+   21  ls
+   22  ls
+   23  apt search python
+   24  apt install python
+   25  ping
+   26  ping 210.1.70.61.168
+   27  ping 210.70.61.168
+   28  ping www.tku.edu.tw
+   29  joe
+   30  python
+   31  pkg install python
+   32  python -version
+   33  apt install clang python python-dev fftw libzmq libzmq-dev freetype freetype-dev libpng 
+   34  python version
+   35  python -m version
+   36  python -m sys.version
+   37  python -m sys.version
+   38  pkg install clang python python-dev fftw libzmq libzmq-dev freetype freetype-dev libpng libpng-dev pkg-config
+   39  pip install jupyter
+   40  pip install jupyter
+   41  jupyter notebook --ip=0.0.0.0
+   42  pkg install clang python python-dev fftw libzmq libzmq-dev freetype freetype-dev libpng libpng-dev pkg-config
+   43  pip install jupyter
+   44  python
+   45  pip install jupyter
+   46  pip install update
+   47  pip install jupyter
+   48  pip install anaconda
+   49  pip install  easy-install  wheel install
+   50  pip install  easy-install
+   51  php
+   52  pip
+   53  pip install  easy-install
+   54  php install anaconda
+   55  php install anaconda
+   56  pip install anaconda
+   57  pip install  easy-install
+   58  pip install  
+   59  pip help install
+   60  pip update
+   61  pip install update
+   62  pip install anacinda
+   63  pip install anaconda
+   64  pip install Anaconda
+   65  python --version
+   66  sudo python setup.py install
+   67  python setup.py install
+   68  bash
+   69  whiami
+   70  whoami
+   71  ps-aux
+   72  ps -aux
+   73  ps -aux
+   74  ps -a
+   75  cd hime
+   76  cd ..
+   77  ls
+   78  cd ..
+   79  ls
+   80  cd ..
+   81  ls
+   82  cd ..
+   83  ls
+   84  ls
+   85  cd
+   86  ls
+   87  sudo
+   88  su root
+   89  uname 
+   90  uname --?
+   91  uname -r
+   92  uname -v
+   93  uname -V
+   94  uname -o
+   95  uname -h
+   96  uname -i
+   97  uname -s
+   98  uname -m
+   99  uname -a
+  100  python --version
+  101  jupter
+  102  juptor
+  103  pip install jupyter notebook
+  104  pkg install clang python python-dev fftw libzmq libzmq-dev freetype freetype-dev libpng libpng-dev pkg-config
+  105  pip install jupyter
+  106  pip install virtualenv
+  107  virtualenv rj-env-android
+  108  ls
+  109  source
+  110  cd rj-env-android/
+  111  ls
+  112  python -m venv rj-env-android
+  113  ls
+  114  cd rj-env-android/
+  115  ls
+  116  cd ..
+  117  ls
+  118  pip install jupytor
+  119  pip install jupyter
+  120  ls
+  121  joe
+  122  python
+  123  ls
+  124  cd rj-env-android/
+  125  ls
+  126  ls
+  127  pip install jupyter
+  128  pip freez
+  129  pip freeze
+  130  which python
+  131  ls
+  132  cd ..
+  133  ls
+  134  workon rj-env-android/
+  135  python3
+  136  pip install jupyter
+  137  pip install --upgrade pip
+  138  pip install jupyter
+  139  jupyter
+  140  jupyter notebook
+  141  ls -l /usr/local/Python/bin/
+  142  pip install anconda
+  143  pip install anaconda
+  144  apt install clang python python-dev 
+  145  LDFLAGS=" -lm -lcompiler_rt" pip install 
+  146  apt install clang python python-dev fftw libzmq libzmq-dev freetype freetype-dev libpng libpng-dev pkg-config
+  147  LDFLAGS=" -lm -lcompiler_rt" pip install numpy matplotlib pandas jupyter
+  148  jupyter notebook
+  149  jupyter notebook
+  150  sudo apt-get install git
+  151   apt-get install git
+  152  git
+  153  git
+  154   git config --global user.name "RobertJiunTingJiang"
+  155  git config --global user.email "rjrj0510@gmail.com"
+  156  mkdir rjoppo
+  157  cd rjoppo/
+  158  pwd
+  159  git init
+  160  ls
+  161  ls -al
+  162  joe t.txt
+  163* pkg install joew
+  164  joe t.txt
+  165  ls
+  166  git add t.txt 
+  167  git commit -m "wrote a first file(rjoppo)"
+  168  joe t.txt
+  169  git status
+  170  git diff t.txt
+  171  git diff t.txt
+  172  git t.txt
+  173  git add t.txt
+  174  git status
+  175  git commit -m "wrote a first file(rjoppo-2)"
+  176  git status
+  177  ssh-keygen -t rsa  "rjrj0510@gmail.com"
+  178  pkg install openssh
+  179  ssh-keygen -t rsa  "rjrj0510@gmail.com"
+  180  ssh-keygen -T rsa  "rjrj0510@gmail.com"
+  181  ssh-keygen -t  rsa -b4096 -C "rjrj0510@gmail.com"
+  182  ls
+  183  ls -al
+  184  cd
+  185  ls -al
+  186  cd .ssh
+  187  ls
+  188  cp id_rsa.pub /
+  189  ls /
+  190  type id_rsa.pub 
+  191  ls
+  192  cat id_rsa.pub 
+  193  eval $(ssh-agent -s)
+  194  ssh-add ~/.ssh/id_rsa
+  195  sudo apt-get install xclip
+  196  sudo apt-get install xcliphi
+  197  cd 
+  198  ls
+  199  ls .ssh
+  200  cd .ssh
+  201  ls
+  202  cat id_rsa.pub 
+  203  cat id_rsa.pub 
+  204  git remote add origin https://github.com/RobertJiunTingJiang/rjoppo.git
+  205  ls
+  206  cd
+  207  ls
+  208  cd rjoppo/
+  209  ls
+  210  git remote add origin https://github.com/RobertJiunTingJiang/rjoppo.git
+  211  git push -u origin master
+  212  echo "# rjoppo" >> README.md
+  213  git init
+  214  git add README.md
+  215  git commit -m "first commit"
+  216  git remote add origin https://github.com/RobertJiunTingJiang/rjoppo.git
+  217  git status
+  218  git commit
+  219  git remote add origin https://github.com/RobertJiunTingJiang/rjoppo.git
+  220  git remote add origin git@github.com:RobertJiunTingJiang/rjoppo.git
+  221  git push -u origin master
+  222  git push -u origin master
+  223  history > rjoppo-success-ok-20180501.history.txt
